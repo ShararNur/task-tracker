@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "text": "Passport size picture",
+      "day": "Friday",
+      "reminder": true,
+      "id": 2
+    }
+  ]
+}
